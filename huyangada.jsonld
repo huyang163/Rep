@@ -57,14 +57,8 @@
     "givenName": "huyangada",
     "motivations": "",
     "objectives": "",
-    "paymentAddress": "",
+    "paymentAddress": "addr1qy77fslqw94s9lprx8jzsea8jmyph0aqhav0kqcm3j6mz8tscsl62eagj0r493426t0z4wznfr590lksy85rcmasqkfsw0yanp",
     "qualifications": "",
-    "references": [
-      {
-        "@type": "Link",
-        "label": "ada holder",
-        "uri": "https://x.com/huyangAda"
-      }
-    ]
+    "references": []
   }
 }
